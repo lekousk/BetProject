@@ -1,2 +1,2 @@
-# BetProject
-Site de statistique Pari en ligne
+# VoteProject
+Site pour effectuer de nouveaux votes: Jugement majoritaire
